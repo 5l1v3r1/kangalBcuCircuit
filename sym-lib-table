@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name kangal-bcu-rescue)(type Legacy)(uri ${KIPRJMOD}/kangal-bcu-rescue.lib)(options "")(descr ""))
+)
